@@ -1,0 +1,23 @@
+# Node.js
+node_modules/
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Environment Variables
+.env
+
+# IDE Files
+*.sublime-project
+*.sublime-workspace
+*.idea/
+*.vscode/
+*.DS_Store
